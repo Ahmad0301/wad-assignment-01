@@ -5,4 +5,4 @@
     { id: 3, title: "Book 3", author: "Author A", isAvailable: true, issuedTo: null },
     { id: 4, title: "Book 4", author: "Author C", isAvailable: false, issuedTo: "Member 2" },
 ];
-  module.exports = {books};  module.exports = books;
+  module.exports = books;
